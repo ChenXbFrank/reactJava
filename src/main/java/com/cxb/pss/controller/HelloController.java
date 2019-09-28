@@ -1,4 +1,4 @@
-package com.cxb.pss;
+package com.cxb.pss.controller;
 
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
